@@ -120,11 +120,17 @@ Hi, I'm **Rookhmani Kandu**, a developer interested in building modern, responsi
   <img src="https://streak-stats.demolab.com?user=rookhmani&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rookhmani&bg_color=0d1117&color=00c2ff&line=2563eb&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rookhmani&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
+
 
 ---
 
