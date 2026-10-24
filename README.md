@@ -6,7 +6,7 @@
 
 <!-- =============== TYPING EFFECT =============== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+JavaScript+%7C+SQL;Problem+Solving+with+C%2B%2B" alt="Developer typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Web+Developer;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+JavaScript+%7C+SQL;Problem+Solving+with+C%2B%2B" alt="Developer typing animation"/>
 </p>
 
 <!-- =============== SOCIAL LINKS =============== -->
