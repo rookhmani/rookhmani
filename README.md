@@ -31,7 +31,7 @@
 
 Hi, I'm **Rookhmani Kandu**, a developer interested in building modern, responsive, and user-friendly web applications.
 
-- 💻 Focused on Full-Stack Web Development
+- 💻 Focused on Full-Stack Software Web Development
 - ⚛️ Building interfaces with React.js
 - 🚀 Developing backend applications with Node.js and Express.js
 - 🗄️ Working with MongoDB and SQL
